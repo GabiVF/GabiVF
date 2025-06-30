@@ -23,7 +23,7 @@
 <div align="center">  
   
    <img width="55%" height="220px"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabiVF&theme=transparent" alt="Profile Details" />
- <img width="35%" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabiVF&theme=transparent" alt="Most Commit Language" />
+   <img width="35%" height="220px"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabiVF&theme=transparent" alt="Most Commit Language" />
   
 </div>  
 
