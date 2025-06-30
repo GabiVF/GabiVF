@@ -1,16 +1,30 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B862FC&height=100&section=header"/>
 
-<!--
-**GabiVF/GabiVF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=B862FC&center=true&vCenter=true&width=1000&lines=Olá%2C+Seja+Bem-vindo(a)+ao+meu+Github;Meu+Nome+é+Gabriela:);">
 
-Here are some ideas to get you started:
+<br />
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+
+  [![My Skills](https://skillicons.dev/icons?i=cpp,html,git,github&perline=9)](https://skillicons.dev)
+
+  <div>
+    <a href="https://www.instagram.com/g4bi.vf?igsh=MWU2ZDRtcmRrZG5xNA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px"></a>
+    <a href="https://github.com/GabiVF" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 30px"></a>
+    <a href="mailto:gabriela.feitosa@sou.unifal-mg.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px"></a>
+  </div>
+</div>
+
+<br />
+<br />
+
+<div align="center">  
+  
+   <img width="55%" height="220px"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabiVF&theme=transparent" alt="Profile Details" />
+  <img width="35%" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabiVF&theme=transparent&exclude={exclude}" alt="Most Commit Language" />
+  
+</div>  
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B862FC&height=100&section=footer"/>
