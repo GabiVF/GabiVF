@@ -23,8 +23,9 @@
 <div align="center">  
   
    <img width="55%" height="220px"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabiVF&theme=transparent" alt="Profile Details" />
-  
+  <img width="55%" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiVF&langs_count=8&theme=transparent" alt="most languages"
+    />
 </div> 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiVF&langs_count=8)
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B862FC&height=100&section=footer"/>
