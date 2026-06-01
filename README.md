@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B862FC&height=100&section=header"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=B862FC&center=true&vCenter=true&width=1000&lines=Olá%2C+Seja+Bem-vindo(a)+ao+meu+Github;Meu+Nome+é+Gabriela:);Sou+estudante+de+ciêcias+da+computação;Amo+tecnologia+e+inovação">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=B862FC&center=true&vCenter=true&width=1000&lines=Olá%2C+Seja+Bem-vindo(a)+ao+meu+Github;Meu+Nome+é+Gabriela:);Estudo+ciêcias+da+computação+na+UFSCar;Amo+tecnologia+e+inovação">
 
 <br />
 <br />
